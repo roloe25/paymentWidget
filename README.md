@@ -1,2 +1,2 @@
 # paymentWidget
-A widget that lets in do payments
+A widget that lets us do payments
